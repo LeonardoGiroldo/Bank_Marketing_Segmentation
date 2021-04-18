@@ -1,7 +1,7 @@
 # Project: Bank Market Segmentation using Unsupervised Machine Learning
 
 # Project overview
-* In this project, I learned how to perform a customer segmentation analysis ij order 
+* In this project, I learned how to perform a customer segmentation analysis 
 * Accurately customer segmentation, allows marketing team to know the customers better, identify their needs and launch targeted ad marketing campaign.
 * The data used was about 8950 active credit card holders during 6 months and is at a customer level with 17 behavioural variables.
 
