@@ -24,7 +24,7 @@
 # Exploratory Data Analysis (EDA)
 * Checked the probability density of the variables and also the correlation between them in order to get a better understanding of patterns and trends 
 
-Insert image
+![](https://github.com/LeonardoGiroldo/Bank_Marketing_Segmentation/blob/main/Image1.png)
 
 # Model Building
 * First, I standardized the data due to the magnitude
