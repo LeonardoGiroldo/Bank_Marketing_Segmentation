@@ -30,13 +30,12 @@
 * First, I standardized the data due to the magnitude
 * Found the optimal number of clusters by using the elbow method
 
-Insert Image
+![](https://github.com/LeonardoGiroldo/Bank_Marketing_Segmentation/blob/main/Image2-Elbow.png)
 
 * Applied the K-means method
 * Applied Principal Component Analysis (PCA) to get a different insight from the data
 
-Insert Image
-
+![](https://github.com/LeonardoGiroldo/Bank_Marketing_Segmentation/blob/main/Image3-PCA.png)
 
 
 
